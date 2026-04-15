@@ -1,6 +1,6 @@
 {
   "name": "us-states-geo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Lightweight U.S. state border lookup utilities for JavaScript.",
   "type": "module",
   "main": "./src/index.js",
