@@ -1,11 +1,11 @@
-# border-kit for JavaScript
+# us-states-geo for JavaScript
 
 Lightweight U.S. state border lookup utilities for JavaScript.
 
 ## Install
 
 ```bash
-npm install border-kit
+npm install us-states-geo
 ```
 
 ## Exports
@@ -19,7 +19,7 @@ npm install border-kit
 ## Usage
 
 ```js
-import { getStateBorders, findStates } from "border-kit";
+import { getStateBorders, findStates } from "us-states-geo";
 
 const texas = getStateBorders("tx");
 console.log(texas);

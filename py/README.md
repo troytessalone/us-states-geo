@@ -1,11 +1,11 @@
-# border-kit for Python
+# us-states-geo for Python
 
 Lightweight U.S. state border lookup utilities for Python.
 
 ## Install
 
 ```bash
-pip install border-kit
+pip install us-states-geo
 ```
 
 ## Exports

@@ -1,4 +1,4 @@
-# border-kit
+# us-states-geo
 
 Lightweight U.S. state border lookup utilities for JavaScript and Python.
 
